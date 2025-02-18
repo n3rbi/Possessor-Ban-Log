@@ -7,3 +7,20 @@ This is a list of all users I've banned for exploiting, teaming, or other rule v
 If you'd like to report exploiters or teamers, please use the **#exploiter-report** channel in [our Discord](https://discord.gg/possessor).  
 
 Anyone can end up here if they break the rules, so play fair!  
+
+
+# INFRACTION SYSTEM:
+
+## Teaming:
+
+ 1st. A kick + warning "If caught agian, you will bans that increase in length (e.g. 1day, 2days, 3days, 1week). 
+
+ 2nd. After all the warnings have gone through, your 5th time will be a perm ban.
+
+## Exploiting:
+
+1st. Perm ban.
+
+# Ive been falsey banned/reported, what can I do?
+
+ 1. DM me on discord @yo_bi and send me a dm saying "Hey, I believe ive been falsey reported. Can we do something about this please?"
