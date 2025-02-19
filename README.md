@@ -21,6 +21,11 @@ Anyone can end up here if they break the rules, so play fair!
 
 1st. Perm ban.
 
+# How do I report someone?
+
+1. Record video evidence of the exploiter/teamer (images work too, however they are alot less reliable meaning it may not be solid proof).
+2. Upload that video to a video hosting platform (e.g. [YouTube](https://www.youtube.com))
+
 # Ive been falsey banned/reported, what can I do?
 
  1. DM me on discord @yo_bi and send me a dm saying "Hey, I believe ive been falsey reported. Can we do something about this please?"
