@@ -30,12 +30,25 @@ UserID: 7014673472
 Reason: Teaming
 -----------------
 -----------------
-Username: JumpingJacks620
-UserID: Unknown
-Reason: Teaming
------------------
------------------
 Username: Iwantshoomthe
 UserID: 4133779268
 Reason: Teaming
+-----------------
+-----------------
+Username: JumpingJack620
+UserID: 2608216714
+Reason: Teaming
+-----------------
+-----------------
+Username: bryson36767
+UserID: 3733332803
+Reason: Teaming is against the rules bro
+-----------------
+-----------------
+Username: whatbaddie21
+UserID: 8003109491
+Reason: Teaming is against the rules bro
+-----------------
+-----------------
+19/02/2025
 -----------------
