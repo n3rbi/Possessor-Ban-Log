@@ -31,7 +31,6 @@ Anyone can end up here if they break the rules—so play fair!
 ## **What can I report?**  
 ✅ **Exploiting**  
 ✅ **Teaming**  
-✅ **Glitch Abuse** *(Using glitches to gain an unfair advantage.)*  
 
 ---
 
