@@ -13,8 +13,8 @@ Anyone can end up here if they break the rules—so play fair!
 ## **Infraction System**  
 
 ### **Teaming:**  
-- **First offense** → Kick + Warning: *"If caught again, bans will increase in length (e.g. 1 day, 2 days, 3 days, 1 week)."*  
-- **Fifth offense** → Permanent ban.  
+- **First offense** → Kick + Warning: *"If caught again, bans will increase in length (e.g. 1 day, 1 week)."*  
+- **Third offense** → Permanent ban.  
 
 ### **Exploiting:**  
 - 🚨 **First offense** → Permanent ban.  
